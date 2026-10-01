@@ -1,4 +1,4 @@
-# 🚀 Varsha AI - Android Releases
+# 🚀 Varsha-Assistant - Android Releases
 
 Welcome to the official repository for **Varsha AI** updates. This repository is strictly used for hosting the latest secure OTA (Over-The-Air) APK releases for the app.
 
